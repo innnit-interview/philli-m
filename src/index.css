@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Soehne Buch';
+  font-style: regular;
+  font-weight: 400;
+  src: url('./assets/soehne-buch.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Soehne Kraeftig';
+  font-style: regular;
+  font-weight: 500;
+  src: url('./assets/soehne-kraftig.woff2') format('woff2');
+}
+
+:root {
+  --orange: #f7661e;
+  --purple: #9466f2;
+  --white: #ffffff;
+  --black: #000000;
+}
+
+body {
+  margin: 0;
+  font-size: 1rem;
+  font-family: Soehne Buch, Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Soehne Kraftig, Soehne, Arial, Helvetica, sans-serif;
+}
+
+/* remove default styling */
+button {
+  display: inline-block;
+  border: 0;
+  padding: 0.25rem 0.75rem;
+  font-family: inherit;
+  border-radius: 3rem;
+  min-width: 40px;
+  min-height: 40px;
+}
