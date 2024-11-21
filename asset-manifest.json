@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2d4cb935.css",
+    "main.js": "./static/js/main.d49edf5a.js",
+    "static/js/453.ed3810f9.chunk.js": "./static/js/453.ed3810f9.chunk.js",
+    "static/media/soehne-buch.woff2": "./static/media/soehne-buch.173f2b230283e78986f5.woff2",
+    "static/media/soehne-kraftig.woff2": "./static/media/soehne-kraftig.d49336aa237d39f0de8e.woff2",
+    "index.html": "./index.html",
+    "main.2d4cb935.css.map": "./static/css/main.2d4cb935.css.map",
+    "main.d49edf5a.js.map": "./static/js/main.d49edf5a.js.map",
+    "453.ed3810f9.chunk.js.map": "./static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4cb935.css",
+    "static/js/main.d49edf5a.js"
+  ]
+}
